@@ -1,7 +1,7 @@
 //คิดเกรด
 //นางสาวศนัญญา หวั่งประดิษฐ์ 6135512036
 
-let score = 80;
+let score = 56;
 
 if (score >= 80) {
     console.log('Grade A');
