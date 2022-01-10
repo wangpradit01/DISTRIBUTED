@@ -5,7 +5,7 @@ let a=7;
     var sum;
     var i;
     a=parseInt(a);
-for(i=0;i<13;i++)
+for(i=2;i<=12;i++)
 {
         console.log(sum = a + "X" +i+ "="+(a*i))
 }
